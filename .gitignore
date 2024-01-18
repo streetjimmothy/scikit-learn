@@ -107,3 +107,4 @@ sklearn/neighbors/_kd_tree.pyx
 
 # Default JupyterLite content
 jupyterlite_contents
+/.vs
